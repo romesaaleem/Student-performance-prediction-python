@@ -1,5 +1,19 @@
 # Student Performance Prediction (Python)
 
+## Table of Contents
+- Brief Summary  
+- Overview  
+- Problem Statement  
+- Dataset  
+- Tools and Technologies  
+- Methods  
+- Key Insights  
+- Output  
+- How to Run  
+- Results and Conclusion  
+- Future Work  
+- Author and Contact  
+
 ## Brief One-Line Summary
 A machine learning project that predicts student academic success (pass/fail) using Python.
 
@@ -52,7 +66,10 @@ Educational institutions often face challenges in identifying students at risk o
   - 0 → Fail  
 - Accuracy scores  
 - Classification report  
-- Feature importance visualization  
+- Feature importance visualization
+  
+### Sample Output Visualization
+![Output Graph](student-performance-prediction-graph.png)
 
 ## How to Run This Project
 
