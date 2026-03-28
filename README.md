@@ -1,18 +1,18 @@
 # Student Performance Prediction (Python)
 
 ## Table of Contents
-- Brief Summary  
-- Overview  
-- Problem Statement  
-- Dataset  
-- Tools and Technologies  
-- Methods  
-- Key Insights  
-- Output  
-- How to Run  
-- Results and Conclusion  
-- Future Work  
-- Author and Contact  
+- [Brief Summary](#-brief-summary)
+- [Overview](#-overview)
+- [Problem Statement](#-problem-statement)
+- [Dataset](#-dataset)
+- [Tools and Technologies](#️-tools-and-technologies)
+- [Methods](#️-methods)
+- [Key Insights](#-key-insights)
+- [Output](#-output)
+- [How to Run](#️-how-to-run)
+- [Results and Conclusion](#-results-and-conclusion)
+- [Future Work](#-future-work)
+- [Author and Contact](#-author-and-contact)
 
 ## Brief One-Line Summary
 A machine learning project that predicts student academic success (pass/fail) using Python.
